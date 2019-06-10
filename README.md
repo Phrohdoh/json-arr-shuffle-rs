@@ -3,6 +3,10 @@
 A command-line utility which takes a JSON array in via stdin (a pipe), shuffles
 the contents, and prints the result to stdout with a trailing `\n` character.
 
+## License
+
+See the [LICENSE] file.
+
 ## Installation
 
 Binaries for Windows, GNU/Linux, and macOS will be available [from GitHub] once
@@ -50,6 +54,7 @@ Please consider financially supporting the project if it has made your life
 easier, saved you time, etc., or as a way to say "thanks!" by [becoming a Patron]
 of the maintainer.
 
+[LICENSE]: ./LICENSE
 [GitHub]: https://github.com/Phrohdoh/json-arr-shuffle-rs
 [CI/CD has been set up]: https://github.com/Phrohdoh/json-arr-shuffle-rs/issues/1
 [from GitHub]: https://github.com/Phrohdoh/json-arr-shuffle-rs/releases
